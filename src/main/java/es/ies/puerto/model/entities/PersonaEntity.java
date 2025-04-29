@@ -105,11 +105,7 @@ public class PersonaEntity {
 
     @Override
     public String toString() {
-        return "{" +
-            " dni='" + getDni() + "'" +
-            ", fechaNacimiento='" + getFechaNacimiento() + "'" +
-            ", zonaString='" + getZonaString() + "'" +
-            "}";
+        return  getDni()+","+getFechaNacimiento()+","+getZonaString();
     }
     
 }
