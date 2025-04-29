@@ -2,11 +2,11 @@
 
 ## Descripción
 
-Este repositorio es un repaso para estudiar programacion de bbdd en Java
+Este repositorio es un repaso para estudiar programacion de BBDD en Java
 
 ## Características Principales
 
-- **Conexion a bbdd**
+- **Conexion a BBDD**
 - **Manejo de listas**
 - **Manejo de excepciones**
 - **Manipulación de ficheros**
@@ -21,5 +21,5 @@ Este repositorio es un repaso para estudiar programacion de bbdd en Java
 
 1. **Clona el Repositorio**:
    ```bash/ windows cmd
-   git clone https://github.com/danielrguezh/repaso-bbdd.git
-   cd repaso-bbdd
+   git clone https://github.com/danielrguezh/repaso-pro-bbdd.git
+   cd repaso-pro-bbdd
